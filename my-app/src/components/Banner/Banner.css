@@ -1,0 +1,14 @@
+.banner {
+  /* background-image: url('../../images/jumbotron.jpg') !important; */
+
+  padding: 0 !important;
+  color: white;
+  font-size: 20px !important;
+  width: 100%;
+}
+
+/* @media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+} */
