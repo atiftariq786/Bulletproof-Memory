@@ -16,7 +16,7 @@
 
 \*\* Demo Link
 
-[App Demo](https://atiftariq786.github.io.)
+[App Demo](https://atiftariq786.github.io/Bulletproof-Memory/)
 
 ## :camera:App Images
 
