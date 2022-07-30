@@ -1,16 +1,15 @@
 # Bulletproof-Memory
 
-    This is a memory game built using below mention technologies,The app should render 12 different images to the screen. Each image should listen for click events.The app should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
-    Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
-    Once the user's score is reset after an incorrect guess, the game should restart.
+This is a memory game built using below mention technologies. The app renders 12 different images to the screen and each image listens for click events. The app tracks the user's score which increments when an image is clocked for the first time.
+The user's score resets to 0 if they click the same image more than once. Every time an image is clicked, the images rendered to the page shuffle themselves in a random order.
+Once the user's score is reset after an incorrect guess, the game restarts at 0.
 
 ## :robot:Technologies Used
 
 - **HTML5** and **CSS3** for page content and styling.
-- **Bootstrap** as a CSS framework for styles and components.
+- **React Bootstrap** as a CSS framework for styles and components.
 - **React.js** as a JavaScript library for making the main structure of the app's UI.
 - **JavaScript** for the app's logic.
-- **Node.JS** for the app's server environment.
 
 ## :tv:App Demo Link
 
