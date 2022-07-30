@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Memory-Game/static/css/main.f45d7f2a.css",
-    "main.js": "/React-Memory-Game/static/js/main.285d83cd.js",
-    "static/media/gameofthrone.gif": "/React-Memory-Game/static/media/gameofthrone.831ef34da4f3e368aeec.gif",
-    "static/media/w1.gif": "/React-Memory-Game/static/media/w1.62c5c3c232eb758e39cc.gif",
-    "static/media/whitewalker.gif": "/React-Memory-Game/static/media/whitewalker.bed152375981ebb7dbe3.gif",
-    "static/media/got16.gif": "/React-Memory-Game/static/media/got16.f0988336567b81f16d7c.gif",
-    "static/media/got10.gif": "/React-Memory-Game/static/media/got10.b1f8081f9b50e6fd3c50.gif",
-    "static/media/got15.gif": "/React-Memory-Game/static/media/got15.63558628018457a7f2f1.gif",
-    "static/media/got14.gif": "/React-Memory-Game/static/media/got14.8b7425d80470aed4068d.gif",
-    "static/media/got12.gif": "/React-Memory-Game/static/media/got12.4260c70c398ae4925eec.gif",
-    "static/media/targaryen.gif": "/React-Memory-Game/static/media/targaryen.edf73854ebb65881b1b8.gif",
-    "static/media/dragon.gif": "/React-Memory-Game/static/media/dragon.da1b7bc61058e6ab7d86.gif",
-    "static/media/got11.gif": "/React-Memory-Game/static/media/got11.6962052620ecf6c29909.gif",
-    "static/media/got13.gif": "/React-Memory-Game/static/media/got13.d3c7a56ced8dca31d509.gif",
-    "static/media/bck.jpg": "/React-Memory-Game/static/media/bck.9f1f7b752efc7181d3e8.jpg",
-    "static/media/daenerys.gif": "/React-Memory-Game/static/media/daenerys.0398ed78bb683298e6f2.gif",
-    "index.html": "/React-Memory-Game/index.html",
-    "main.f45d7f2a.css.map": "/React-Memory-Game/static/css/main.f45d7f2a.css.map",
-    "main.285d83cd.js.map": "/React-Memory-Game/static/js/main.285d83cd.js.map"
+    "main.css": "/Bulletproof-Memory/static/css/main.458e61e5.css",
+    "main.js": "/Bulletproof-Memory/static/js/main.7de4f086.js",
+    "static/media/gameofthrone.gif": "/Bulletproof-Memory/static/media/gameofthrone.831ef34da4f3e368aeec.gif",
+    "static/media/w1.gif": "/Bulletproof-Memory/static/media/w1.62c5c3c232eb758e39cc.gif",
+    "static/media/whitewalker.gif": "/Bulletproof-Memory/static/media/whitewalker.bed152375981ebb7dbe3.gif",
+    "static/media/got16.gif": "/Bulletproof-Memory/static/media/got16.f0988336567b81f16d7c.gif",
+    "static/media/got10.gif": "/Bulletproof-Memory/static/media/got10.b1f8081f9b50e6fd3c50.gif",
+    "static/media/got15.gif": "/Bulletproof-Memory/static/media/got15.63558628018457a7f2f1.gif",
+    "static/media/got14.gif": "/Bulletproof-Memory/static/media/got14.8b7425d80470aed4068d.gif",
+    "static/media/got12.gif": "/Bulletproof-Memory/static/media/got12.4260c70c398ae4925eec.gif",
+    "static/media/targaryen.gif": "/Bulletproof-Memory/static/media/targaryen.edf73854ebb65881b1b8.gif",
+    "static/media/dragon.gif": "/Bulletproof-Memory/static/media/dragon.da1b7bc61058e6ab7d86.gif",
+    "static/media/got11.gif": "/Bulletproof-Memory/static/media/got11.6962052620ecf6c29909.gif",
+    "static/media/got13.gif": "/Bulletproof-Memory/static/media/got13.d3c7a56ced8dca31d509.gif",
+    "static/media/bck.jpg": "/Bulletproof-Memory/static/media/bck.9f1f7b752efc7181d3e8.jpg",
+    "static/media/daenerys.gif": "/Bulletproof-Memory/static/media/daenerys.0398ed78bb683298e6f2.gif",
+    "index.html": "/Bulletproof-Memory/index.html",
+    "main.458e61e5.css.map": "/Bulletproof-Memory/static/css/main.458e61e5.css.map",
+    "main.7de4f086.js.map": "/Bulletproof-Memory/static/js/main.7de4f086.js.map"
   },
   "entrypoints": [
-    "static/css/main.f45d7f2a.css",
-    "static/js/main.285d83cd.js"
+    "static/css/main.458e61e5.css",
+    "static/js/main.7de4f086.js"
   ]
 }
