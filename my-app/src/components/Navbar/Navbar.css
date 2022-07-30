@@ -1,6 +1,6 @@
 .navbar {
   background: black;
-  min-height: 70px;
+  min-height: 60px;
   font-size: 18px;
   padding: 20px 0;
   width: 100%;
@@ -10,6 +10,8 @@
   color:gray;
   white-space: nowrap;
   margin-top: 0px;
+  position:fixed !important;
+  top:0px;
 }
 .navbar div {
   text-align: center;

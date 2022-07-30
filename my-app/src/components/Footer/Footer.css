@@ -8,4 +8,6 @@
   padding: 10px 0px 0px 0px;
   margin-bottom: 0px;
   width: 100%;
+  position:fixed;
+  bottom: 0px;
 }

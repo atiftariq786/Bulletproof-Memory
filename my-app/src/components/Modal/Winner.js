@@ -27,7 +27,7 @@ const Winner = (props) => {
         </p>
         <img
           style={{ width: "200px", height: "200px" }}
-          src={require("../../images/w1.gif")}
+          src={require("../../assets/images/w1.gif")}
           alt="Memory Game"
         ></img>
       </Modal.Body>

@@ -1,11 +1,10 @@
 .mainDiv{
     width: 100%;
     height: 100%;
-    background-image: url('./images/bck.jpg');
 }
 .contentDiv{
     width: 100%;
-    height: 100vh;
+    height: 92vh;
     display: flex;
     flex-direction: column;
 }
@@ -13,11 +12,11 @@
     width: 100%;
     height: 170px;
     padding: 0px;
-    margin-top:50px;
+    margin-top:120px;
 }
 .containerDiv{
     width: 100%;
     height: 100%;    
     margin: 0px auto 0px auto;
-    overflow: auto;
+  
 }

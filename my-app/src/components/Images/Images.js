@@ -1,15 +1,15 @@
-import daenerys from "../../images/daenerys.gif";
-import dragon from "../../images/dragon.gif";
-import gameofthrone from "../../images/gameofthrone.gif";
-import targaryen from "../../images/targaryen.gif";
-import whitewalker from "../../images/whitewalker.gif";
-import got10 from "../../images/got10.gif";
-import got11 from "../../images/got11.gif";
-import got12 from "../../images/got12.gif";
-import got13 from "../../images/got13.gif";
-import got14 from "../../images/got14.gif";
-import got15 from "../../images/got15.gif";
-import got16 from "../../images/got16.gif";
+import daenerys from "../../assets/images/daenerys.gif";
+import dragon from "../../assets/images/dragon.gif";
+import gameofthrone from "../../assets/images/gameofthrone.gif";
+import targaryen from "../../assets/images/targaryen.gif";
+import whitewalker from "../../assets/images/whitewalker.gif";
+import got10 from "../../assets/images/got10.gif";
+import got11 from "../../assets/images/got11.gif";
+import got12 from "../../assets/images/got12.gif";
+import got13 from "../../assets/images/got13.gif";
+import got14 from "../../assets/images/got14.gif";
+import got15 from "../../assets/images/got15.gif";
+import got16 from "../../assets/images/got16.gif";
 
 const images = [
   daenerys,
