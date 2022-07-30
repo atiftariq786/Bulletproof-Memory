@@ -10,5 +10,4 @@ const Banner = () => (
     </p>
   </div>
 );
-
 export default Banner;
