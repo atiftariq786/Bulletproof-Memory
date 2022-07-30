@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://atiftariq786.github.io/React-Memory-Game/",
+  "homepage": "https://atiftariq786.github.io/Bulletproof-Memory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,6 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
-    
   },
   "eslintConfig": {
     "extends": "react-app"
