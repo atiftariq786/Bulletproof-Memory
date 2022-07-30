@@ -20,13 +20,17 @@
 
 ## :camera:App Images
 
-\*\* Home View
+\*\* Start Game
 
-![alt text](https://github.com/atiftariq786/React-Memory-Game/blob/master/memorygame/src/images/Appdemo.png?raw=true "App home view")
+![alt text](https://github.com/atiftariq786/Bulletproof-Memory/blob/main/my-app/src/assets/images/startGame.png?raw=true "Start Game")
+
+\*\* Bulletproof Memory
+
+![alt text](https://github.com/atiftariq786/Bulletproof-Memory/blob/main/my-app/src/assets/images/winner.png?raw=true "Winner")
 
 ## :hammer_and_wrench: Deployment Instructions
 
-    Deployed version of the app can be found [here](https://atiftariq786.github.io.). To run this app on your machine, follow these instructions. Further options for running the app yourself can also be found in the ReadMe under the my-app section.
+    Deployed version of the app can be found [here](https://github.com/atiftariq786/Bulletproof-Memory). To run this app on your machine, follow these instructions. Further options for running the app yourself can also be found in the ReadMe under the my-app section.
 
     1. Clone this repository down to your machine.
 
